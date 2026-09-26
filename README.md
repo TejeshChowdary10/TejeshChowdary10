@@ -14,7 +14,7 @@
 
 ## About
 
-Final-year Computer Science student with a focus on **Machine Learning**, **IoT Security**, and **Code AI**. I have **7 IEEE publications** -- including a journal article in the *IEEE Open Journal of the Communications Society* -- spanning federated learning, cryptography, big data, and transformer-based code analysis.
+Final-year Computer Science student with a focus on **Machine Learning**, **IoT Security**, and **Code AI**. I have **6 IEEE publications** spanning federated learning, cryptography, big data, and transformer-based code analysis.
 
 ```python
 areas_of_interest = [
@@ -31,11 +31,10 @@ areas_of_interest = [
 
 ## IEEE Publications
 
-> **7 peer-reviewed publications** | 6 conference papers | 1 journal article
+> **6 peer-reviewed publications** | 6 IEEE conference papers
 
 | # | Title | Venue | Year | DOI |
 |---|---|---|---|---|
-| 7 | **Enhancing MQTT Intrusion Detection in IoT Using ML and Feature Engineering** | IEEE Open Journal of the Communications Society **(Journal)** | 2025 | [10.1109/OJCOMS.2025.3610132](https://doi.org/10.1109/OJCOMS.2025.3610132) |
 | 6 | Evaluating ML Techniques on Big Data Frameworks for MQTT IoT Security | IEEE I3CTCON 2026 | 2026 | [10.1109/I3CTCON68242.2026.11508116](https://doi.org/10.1109/I3CTCON68242.2026.11508116) |
 | 5 | Integrating Baudot Encoding and Chaotic Maps with Symmetric Cryptography | IEEE ICECA 2025 | 2025 | [10.1109/ICECA66444.2025.11383142](https://doi.org/10.1109/ICECA66444.2025.11383142) |
 | 4 | Adaptive Biometric Smart Door Lock System with Time-Bound Access Using GSM | IEEE ICIRCA 2025 | 2025 | [10.1109/ICIRCA65293.2025.11089534](https://doi.org/10.1109/ICIRCA65293.2025.11089534) |
@@ -67,7 +66,7 @@ Triple-layer encryption: Modified Caesar Cipher -> Baudot Encoding -> AES-256 / 
 
 ### MQTT IoT Intrusion Detection -- PySpark
 
-*IEEE I3CTCON 2026 + IEEE OJCOMS Journal 2025*
+*IEEE I3CTCON 2026*
 
 Big Data ML pipeline on the MQTTEEB-D dataset (1.1M+ rows, 6 attack classes). Trains Logistic Regression, Decision Tree, and GBT classifiers with PySpark MLlib.
 
