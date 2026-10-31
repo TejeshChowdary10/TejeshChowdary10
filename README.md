@@ -14,7 +14,7 @@
 
 ## About
 
-Computer Science graduate with a focus on **Machine Learning**, **IoT Security**, and **Code AI**. I have **6 IEEE publications** spanning federated learning, cryptography, big data, and transformer-based code analysis.
+Computer Science Graduate with a focus on **Machine Learning**, **IoT Security**, and **Code AI**. I have **6 IEEE publications** spanning federated learning, cryptography, big data, and transformer-based code analysis.
 
 ```python
 areas_of_interest = [
